@@ -1,2 +1,2 @@
 # GitIntro
-this repo for inital
+this repo for inital statement
